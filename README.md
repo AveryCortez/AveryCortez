@@ -1,4 +1,4 @@
-Hey, it's me AVery.
+Hey, it's me Avery Cortez.
 
 <!---
 AveryCortez/AveryCortez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
